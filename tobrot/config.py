@@ -10,7 +10,8 @@ class Config(Config):
     DESTINATION_FOLDER = "IYDL Bot" #Name of your folder read readme(not id of the folder)
     RCLONE_CONFIG = """type = drive
 scope = drive
-token = {"access_token":"ya29.a0AfH6SMB0xu3rCe0CVQwVkch1w2pdpFSAeI7ikt3oGsq-ywVUswnq9AIBmeYpGgD8xmXwpsvztNc-vyiq1bIHbMq3VzLdl8aLRA0D2iebL9ppNCFaKnVqSyQ1Y6buun4KGdyWUqj_eiunpv2ql26da8zy87bMfkXHc3U","token_type":"Bearer","refresh_token":"1//0gxnAT17c3AE9CgYIARAAGBASNwF-L9IrKS5D2XL7noEra_2B-sOaP2itbUwO-pyZPvCajRTPPeUabFCOX2newmwi-uuTIV2yEJ0","expiry":"2020-07-07T17:37:02.4771735+05:30"}
-root_folder_id = 10MK__ekLdXD4M_IlilYwnLm-86ZHnPiw"""
+root_folder_id = 10MK__ekLdXD4M_IlilYwnLm-86ZHnPiw
+token = {"access_token":"ya29.a0AfH6SMDNnEVvKI4k-XrJhVjdyzaUXCRszyg0A52nQijYcM_CdRNP9SXni9ahML7WVxHznRUrwr1f9JUMd1-ufFj2oRYSj6dPt8YoEqfKmp2ZKb19t80f1xfhJbzxicMHF5NAaPT5AtX1nZsif0ftoUa64V-u13UGc9iXLMckq9U","token_type":"Bearer","refresh_token":"1//0grwIssQPRFQFCgYIARAAGBASNwF-L9IrI-9jWPkyjEY6oDlHypfUL7pQgBIN233D5Av4WisXbehviCzelJrGbJVragQ_QGTxgi0","expiry":"2020-12-27T18:49:32.37751619Z"}
+team_drive = 0AKEIlmAviSz1Uk9PVA"""
     #fill taking reference of this config, dont remove """ from both side of the RCLONE_CONFIG variable 
     #FOR CUSTOM COMMANDS READ REAME AND FILL THEM...
